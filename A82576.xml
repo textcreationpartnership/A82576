@@ -1,0 +1,617 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A copy of a letter, from the members of both hovses assembled at Oxford, to the Earle of Essex: dated the 27 of January, 1643. : With the names of those who signed it, desiring a treaty of peace. / Printed by order, to be published to the whole kingdom. Edw. Norgate,.</title>
+            <author>England and Wales. Parliament.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1644</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A82576</idno>
+            <idno type="STC">Wing E1285AB</idno>
+            <idno type="STC">ESTC R15556</idno>
+            <idno type="EEBO-CITATION">45097672</idno>
+            <idno type="OCLC">ocm 45097672</idno>
+            <idno type="VID">171271</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A82576)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 171271)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2570:10)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A copy of a letter, from the members of both hovses assembled at Oxford, to the Earle of Essex: dated the 27 of January, 1643. : With the names of those who signed it, desiring a treaty of peace. / Printed by order, to be published to the whole kingdom. Edw. Norgate,.</title>
+                  <author>England and Wales. Parliament.</author>
+                  <author>Norgate, Edward, d. 1650.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed at Oxford, Ianuary 30. By Leonard Lichfield, printer to the university.,</publisher>
+                  <pubPlace>[Oxford] :</pubPlace>
+                  <date>1643 [i.e. 1644]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"A list of the Lords and others who signed the letter": p. 6-8.</note>
+                  <note>Reproduction of original in the Henry E. Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Essex, Robert Devereux, --  Earl of, 1591-1646.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:171271:1" rendition="simple:additions"/>
+            <p>A COPY OF A LETTER, FROM THE MEMBERS <hi>OF BOTH HOVSES</hi> Aſſembled at OXFORD, To the <hi>EARLE OF ESSEX:</hi> Dated the 27 of January, 1643.</p>
+            <p>WITH The names of thoſe who Signed it, deſiring <hi>a Treaty of</hi> PEACE.</p>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>Printed by Order, to be publiſhed to the whole Kingdom.</p>
+                        <closer>
+                           <signed>EDW. NORGATE,</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>Printed at <hi>OXFORD, Ianuary</hi> 30. By LEONARD LICHFIELD, Printer <hi>to the <g ref="char:V">Ʋ</g>niverſity.</hi> 1643.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:171271:2" rendition="simple:additions"/>
+            <pb n="3" facs="tcp:171271:2" rendition="simple:additions"/>
+            <opener>
+               <salute>My Lord,</salute>
+            </opener>
+            <p>HIS Majeſtie having by His Proclamation of the 22. of December (upon the occaſion of the Invaſion threatned, and in part begun by ſome of His Subjects of Scotland) ſummon'd all the Members of both Houſes of Parliament to attend Him here at Oxford: We whoſe names are under written are here met and aſſembled in obedience to thoſe His Majeſties commands. His Majeſty was pleaſed to in<g ref="char:EOLhyphen"/>vite us in the ſaid Proclamation by theſe gratious expreſ<g ref="char:EOLhyphen"/>ſions; [That His Subjects ſhould ſee how willing he was to receive advice for the preſervation of the Religion, Lawes and ſafety of the Kingdome, and as farre as in Him lay to reſtore it to it's former Peace and ſecurity, (His chiefe and onely end) from thoſe whom they had truſted, though he could not receive it, in the place where He ap<g ref="char:EOLhyphen"/>pointed.] This moſt gracious invitation hath not onely been made good unto us, but ſeconded and heightened by ſuch unqueſtionable demonſtrations of the deep and Princely ſenſe which poſſeſſes His Royall heart of the miſeries and calamities of His poore Subject in this un<g ref="char:EOLhyphen"/>naturall Warre, and of His moſt entire and paſſionate
+<pb n="4" facs="tcp:171271:3" rendition="simple:additions"/>affections, to redeeme them from that ſad and deplorable condition, by all wayes poſſibly conſiſtent either with His Honour, or with the future ſafety of the Kingdom, that, as it were impiety to queſtion the ſincerity of them, ſo were it great want of duty and faithfulneſſe in us, (His Majeſtie having vouchſafed to declare, that He did call us to be witneſſes of His actions, and privy to His intentions) ſhould we not teſtifie and witneſſe to all the world, the aſſurance we have of the piety and ſincerity of Both; We being moſt entirely ſatisfied of this truth, We cannot but confeſſe, that, amidſt Our higheſt afflictions in the deep and piercing ſenſe of the preſents miſeries and deſolations of our Country, and thoſe further dangers threatned from Scotland, We are at length errected to ſome cheerfull and comfortable thoughts, that poſſibly we may yet (by Gods mercy, if his juſtice have not determined this Nation for it's ſinnes, to totall ruine and deſolation) hope to be happy Inſtruments of our Countries redemption, from the miſeries of Warre, and reſtitution to the bleſſings of peace, And We being deſirous to beleeve your Lords<g ref="char:EOLhyphen"/>ſhips (howſoever ingaged) a perſon likely to be ſenſibly touched with theſe conſiderations, have thought fit to invite you that part in this bleſſed work, which is onely capable to repaire all our misfortunes, and to boye up the Kingdome from rune; That is, by coujuring you, by all the obligations that have power upon Honour, Con<g ref="char:EOLhyphen"/>ſcience, or publique Piety, that laying to heart, as we do the inwardly bleeding condition of your Country, and the outward more menacing deſtruction by a forreigne Nati<g ref="char:EOLhyphen"/>on, upon the very point of invading it, you will cooperat<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> with us to it's preſervation, by truely repreſentina to, an<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <pb n="5" facs="tcp:171271:3" rendition="simple:additions"/>faithfully and induſtriouſly promoving with thoſe by whom you are truſted, this following moſt ſincere and moſt earneſt deſire of ours; That they joyning with us in a right ſenſe of the paſt, preſent, and more threatning calamities of this deplorable Kingdom, ſome perſons be appointed on either part, and a place agreed on, to treat of ſuch a Peace, as may yet redeem it from the brinke of deſolation.</p>
+            <p>This addreſſe we ſhould not have made, but that His Majeſties ſummons by which we are met, moſt graciouſly proclaiming pardon to all without exception, is evidence enough, that his mercy and clemency can tranſcend all for<g ref="char:EOLhyphen"/>mer provocations, and that He hath not only made us wit<g ref="char:EOLhyphen"/>neſſes of his Princely Intentions, but honoured us alſo with the name of being ſecurity for them.</p>
+            <p>
+               <hi>God Almighty direct your Lordſhip, and thoſe to whom you ſhall preſent theſe our moſt roall deſires, in ſuch a courſe as may produce that happy Peace and ſettlement of the preſent diſtractions, which is ſo heartily deſired and prayed for by us, and which may make us.</hi>
+            </p>
+            <closer>
+               <dateline>From Oxford <date>the 27. January, 1643.</date>
+               </dateline>
+               <signed>Your affectionate Friends.</signed>
+            </closer>
+         </div>
+         <div type="list_of_signatories">
+            <pb n="6" facs="tcp:171271:4" rendition="simple:additions"/>
+            <head>A Liſt of the Lords and others who ſigned the Letter to the Earle of Eſſex, dated at Oxford 27. January. 1643.</head>
+            <list>
+               <item>
+                  <hi>CHarles P.</hi>
+               </item>
+               <item>
+                  <hi>Yorke.</hi>
+               </item>
+               <item>
+                  <hi>Cumberland.</hi>
+               </item>
+               <item>
+                  <hi>Ed. Littleton C. S.</hi>
+               </item>
+               <item>
+                  <hi>Fra. Cottington.</hi>
+               </item>
+               <item>D. <hi>Richmond.</hi>
+               </item>
+               <item>M. <hi>Hertford.</hi>
+               </item>
+               <item>E. <hi>Lindſey.</hi>
+               </item>
+               <item>E. <hi>Dorſet.</hi>
+               </item>
+               <item>E. <hi>Shrewsbury.</hi>
+               </item>
+               <item>E. <hi>Bath.</hi>
+               </item>
+               <item>E. <hi>Southampton.</hi>
+               </item>
+               <item>E. <hi>Leiceſter.</hi>
+               </item>
+               <item>E. <hi>Northampton.</hi>
+               </item>
+               <item>E. <hi>Devonſhire.</hi>
+               </item>
+               <item>E. <hi>Carlile.</hi>
+               </item>
+               <item>E. <hi>Briſtoll.</hi>
+               </item>
+               <item>E. <hi>Barkſhire.</hi>
+               </item>
+               <item>E. <hi>Cleveland.</hi>
+               </item>
+               <item>E. <hi>Rivers.</hi>
+               </item>
+               <item>E. <hi>Dover.</hi>
+               </item>
+               <item>E. <hi>Peterborough.</hi>
+               </item>
+               <item>E. <hi>Kingſtone.</hi>
+               </item>
+               <item>E. <hi>Newport.</hi>
+               </item>
+               <item>E. <hi>Portland.</hi>
+               </item>
+               <item>V. <hi>Coway.</hi>
+               </item>
+               <item>L. <hi>Digby.</hi>
+               </item>
+               <item>L. <hi>Moubray</hi> and <hi>Mattravers.</hi>
+               </item>
+               <item>L. <hi>Wentworth.</hi>
+               </item>
+               <item>L. <hi>Cromwell.</hi>
+               </item>
+               <item>L. <hi>Rich.</hi>
+               </item>
+               <item>L. <hi>Paget.</hi>
+               </item>
+               <item>L. <hi>Chandoys.</hi>
+               </item>
+               <item>L. <hi>Howard <hi>of Charleton.</hi>
+                  </hi>
+               </item>
+               <item>L. <hi>Lovelace.</hi>
+               </item>
+               <item>L. <hi>Savile.</hi>
+               </item>
+               <item>L. <hi>Mohun.</hi>
+               </item>
+               <item>L. <hi>Dunſmore.</hi>
+               </item>
+               <item>L. <hi>Seymour.</hi>
+               </item>
+               <item>L. <hi>Percy.</hi>
+               </item>
+               <item>L. <hi>Wilmott.</hi>
+               </item>
+               <item>L. <hi>Leigh.</hi>
+               </item>
+               <item>L. <hi>Hatton.</hi>
+               </item>
+               <item>L. <hi>Iermin.</hi>
+               </item>
+               <item>L. <hi>Carrington.</hi>
+               </item>
+               <item>
+                  <pb n="7" facs="tcp:171271:4" rendition="simple:additions"/>
+                  <hi>JOhn Fettiplace.</hi>
+               </item>
+               <item>
+                  <hi>Alex. Denton.</hi>
+               </item>
+               <item>
+                  <hi>Iohn Packingtom.</hi>
+               </item>
+               <item>
+                  <hi>Tho. Smith.</hi>
+               </item>
+               <item>
+                  <hi>F. Gamul.</hi>
+               </item>
+               <item>
+                  <hi>Io. Harris.</hi>
+               </item>
+               <item>
+                  <hi>Ioſepb Iane.</hi>
+               </item>
+               <item>
+                  <hi>Rich. Edgcombe.</hi>
+               </item>
+               <item>
+                  <hi>Jonathan Raſhleigh.</hi>
+               </item>
+               <item>
+                  <hi>G. Fane.</hi>
+               </item>
+               <item>
+                  <hi>P. Edgcombe.</hi>
+               </item>
+               <item>
+                  <hi>Will. Glanvill.</hi>
+               </item>
+               <item>
+                  <hi>Ro. Holborne.</hi>
+               </item>
+               <item>
+                  <hi>Ra. Sydenham.</hi>
+               </item>
+               <item>
+                  <hi>Fr. Godolphin.</hi>
+               </item>
+               <item>
+                  <hi>Geo. Parry.</hi>
+               </item>
+               <item>
+                  <hi>Amb. Manaton.</hi>
+               </item>
+               <item>
+                  <hi>R. Vyvyan.</hi>
+               </item>
+               <item>
+                  <hi>Io. Polewheile.</hi>
+               </item>
+               <item>
+                  <hi>Iohn Arundell.</hi>
+               </item>
+               <item>
+                  <hi>Tho. Lower.</hi>
+               </item>
+               <item>
+                  <hi>Edw. Hide.</hi>
+               </item>
+               <item>
+                  <hi>Will. Alleſttree.</hi>
+               </item>
+               <item>
+                  <hi>Geo. Stonehouſe.</hi>
+               </item>
+               <item>
+                  <hi>Ed. Seymour.</hi>
+               </item>
+               <item>
+                  <hi>Peter Sainthill.</hi>
+               </item>
+               <item>
+                  <hi>Will. Poole.</hi>
+               </item>
+               <item>
+                  <hi>Roger Mathew.</hi>
+               </item>
+               <item>
+                  <hi>Rich. Arundel.</hi>
+               </item>
+               <item>
+                  <hi>Robert Walker.</hi>
+               </item>
+               <item>
+                  <hi>Giles Strangwaies.</hi>
+               </item>
+               <item>
+                  <hi>Iohn Strangwaies.</hi>
+               </item>
+               <item>
+                  <hi>Tho. Hele.</hi>
+               </item>
+               <item>
+                  <hi>Ger. Naper.</hi>
+               </item>
+               <item>
+                  <hi>Sam. Turner.</hi>
+               </item>
+               <item>
+                  <hi>Wil. Conſtantine.</hi>
+               </item>
+               <item>
+                  <hi>Hen. Killigrew.</hi>
+               </item>
+               <item>
+                  <hi>Rich. King.</hi>
+               </item>
+               <item>
+                  <hi>John Dutton.</hi>
+               </item>
+               <item>
+                  <hi>Hen. Bret.</hi>
+               </item>
+               <item>
+                  <hi>Wil. Chadwell.</hi>
+               </item>
+               <item>
+                  <hi>Theobald Gorges.</hi>
+               </item>
+               <item>
+                  <hi>Iohn George.</hi>
+               </item>
+               <item>
+                  <hi>Tho. Fanſhaw.</hi>
+               </item>
+               <item>
+                  <hi>Humf. Conningesby.</hi>
+               </item>
+               <item>
+                  <hi>Rich. Seaborne.</hi>
+               </item>
+               <item>
+                  <hi>Arth. Ranelaugh.</hi>
+               </item>
+               <item>
+                  <hi>Thomas Tomkins.</hi>
+               </item>
+               <item>
+                  <hi>Sampſon Evers.</hi>
+               </item>
+               <item>
+                  <hi>John Culpeper.</hi>
+               </item>
+               <item>
+                  <hi>Jeffrey Palmer.</hi>
+               </item>
+               <item>
+                  <hi>Iohn Harriſon.</hi>
+               </item>
+               <item>
+                  <hi>Tho. Fanſhaw.</hi>
+               </item>
+               <item>
+                  <hi>Rog. Palmer.</hi>
+               </item>
+               <item>
+                  <hi>Orlando Bridgman.</hi>
+               </item>
+               <item>
+                  <hi>Wil. Watkins.</hi>
+               </item>
+               <item>
+                  <hi>Iohn Smith.</hi>
+               </item>
+               <item>
+                  <hi>Tho. Bludder.</hi>
+               </item>
+               <item>
+                  <hi>Ed. Littleton.</hi>
+               </item>
+               <item>
+                  <hi>Harvie Bagot.</hi>
+               </item>
+               <item>
+                  <hi>Rich. Leveſon.</hi>
+               </item>
+               <item>
+                  <hi>Rich. Cave.</hi>
+               </item>
+               <item>
+                  <hi>Rich. Weſton.</hi>
+               </item>
+               <item>
+                  <hi>Rich. Lee.</hi>
+               </item>
+               <item>
+                  <pb n="8" facs="tcp:171271:5" rendition="simple:additions"/>
+                  <hi>Tho. Whitmore.</hi>
+               </item>
+               <item>
+                  <hi>Ed. Acton.</hi>
+               </item>
+               <item>
+                  <hi>C. Baldwin.</hi>
+               </item>
+               <item>
+                  <hi>R. Goodwin.</hi>
+               </item>
+               <item>
+                  <hi>Tho. Howard.</hi>
+               </item>
+               <item>
+                  <hi>Tho. Littleton.</hi>
+               </item>
+               <item>
+                  <hi>Ro. Howard.</hi>
+               </item>
+               <item>
+                  <hi>Iohn Meux.</hi>
+               </item>
+               <item>
+                  <hi>Matthew Davis.</hi>
+               </item>
+               <item>
+                  <hi>F. Cornwallis.</hi>
+               </item>
+               <item>
+                  <hi>Tho. Iermyn.</hi>
+               </item>
+               <item>
+                  <hi>Iohn Tayler.</hi>
+               </item>
+               <item>
+                  <hi>William Baſſet.</hi>
+               </item>
+               <item>
+                  <hi>William Portman.</hi>
+               </item>
+               <item>
+                  <hi>Edw. Rodney.</hi>
+               </item>
+               <item>
+                  <hi>Tho. Hanham.</hi>
+               </item>
+               <item>
+                  <hi>Ed. Phelipps.</hi>
+               </item>
+               <item>
+                  <hi>Iohn Digby.</hi>
+               </item>
+               <item>
+                  <hi>Ed. Kirton.</hi>
+               </item>
+               <item>
+                  <hi>Cha. Leuknor.</hi>
+               </item>
+               <item>
+                  <hi>Edw. Alford.</hi>
+               </item>
+               <item>
+                  <hi>Iohn White.</hi>
+               </item>
+               <item>
+                  <hi>Iohn Aſhburnham.</hi>
+               </item>
+               <item>
+                  <hi>Will. Smith.</hi>
+               </item>
+               <item>
+                  <hi>Tho. Leedes.</hi>
+               </item>
+               <item>
+                  <hi>Iohn Thynn.</hi>
+               </item>
+               <item>
+                  <hi>Will. Pleydell.</hi>
+               </item>
+               <item>
+                  <hi>Ro. Hide.</hi>
+               </item>
+               <item>
+                  <hi>Ed. Griffin.</hi>
+               </item>
+               <item>
+                  <hi>Walter Smith.</hi>
+               </item>
+               <item>
+                  <hi>Geo. Lowe.</hi>
+               </item>
+               <item>
+                  <hi>Ric. Harding.</hi>
+               </item>
+               <item>
+                  <hi>Hen. Herbert.</hi>
+               </item>
+               <item>
+                  <hi>End. Porter.</hi>
+               </item>
+               <item>
+                  <hi>Sam. Sandys.</hi>
+               </item>
+               <item>
+                  <hi>Iohn Bodvill.</hi>
+               </item>
+               <item>
+                  <hi>Will. Morgan.</hi>
+               </item>
+               <item>
+                  <hi>Will. Thomas.</hi>
+               </item>
+               <item>
+                  <hi>Io. Moſtyn.</hi>
+               </item>
+               <item>
+                  <hi>Hen. Bellaſis.</hi>
+               </item>
+               <item>
+                  <hi>Geo. Wentworth.</hi>
+               </item>
+               <item>
+                  <hi>Will. Mallory.</hi>
+               </item>
+               <item>
+                  <hi>Ri. Alburgh.</hi>
+               </item>
+               <item>
+                  <hi>Iohn Salisbury.</hi>
+               </item>
+               <item>
+                  <hi>Will. Herbert.</hi>
+               </item>
+               <item>
+                  <hi>Will. Price.</hi>
+               </item>
+               <item>
+                  <hi>Iohn Price.</hi>
+               </item>
+               <item>
+                  <hi>R. Herbert.</hi>
+               </item>
+               <item>
+                  <hi>Cha. Price.</hi>
+               </item>
+               <item>
+                  <hi>Phil. Warwick.</hi>
+               </item>
+               <item>
+                  <hi>Tho. Cooke.</hi>
+               </item>
+               <item>
+                  <hi>Rob. Crooke.</hi>
+               </item>
+               <item>
+                  <hi>Herb. Price.</hi>
+               </item>
+               <item>
+                  <hi>Iohn. Whiſtler.</hi>
+               </item>
+            </list>
+            <trailer>FJNJS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
